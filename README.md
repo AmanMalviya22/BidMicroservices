@@ -74,13 +74,14 @@ ADMIN_API_SECRET=your_admin_api_secret
 ```
 
 ### Environment Variables
-#### PORT: Port number for the server.
-#### MONGODB_URI: MongoDB connection string.
-#### JWT_SECRET: Secret key for signing JWT tokens.
-#### ADMIN_API_SECRET: Secret key for authenticating admin requests.
+PORT: Port number for the server.
+MONGODB_URI: MongoDB connection string.
+JWT_SECRET: Secret key for signing JWT tokens.
+ADMIN_API_SECRET: Secret key for authenticating admin requests.
 
 ### API Documentation
 you can see my postman documentation for it. Here is the uri of it.
+
 https://documenter.getpostman.com/view/28291997/2sAXjGcuFK
 
 
